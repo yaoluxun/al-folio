@@ -2,10 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Spring 2021, BIOST 2063 - [BAYESIAN DATA SCIENCE](https://www.publichealth.pitt.edu/biostatistics/academics/courses/course-details?cid=102290){:target="\_blank"}, Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+Fall 2020, BIOST 2036 - [INTRODUCTION TO HEALTH DATA SCIENCE](https://www.publichealth.pitt.edu/biostatistics/academics/courses/course-details?cid=191005){:target="\_blank"}, Teaching Assistant
